@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
@@ -64,6 +63,3 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
-=======
-# nagibaba.github.io
->>>>>>> b8f6f06c2abacfca6b2667a6e92e6a55efd52353
